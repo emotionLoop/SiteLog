@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<component>
+	<id>homepage</id>
+	<class>Homepage</class>
+	<name>Homepage</name>
+	<triggers>(index)</triggers>
+</component>

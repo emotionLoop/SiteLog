@@ -1,0 +1,95 @@
+/* Framework Specifics
+===============================================*/
+
+/* wz-notification
+===============================================*/
+
+#wz-notifications {
+	position: fixed;
+	z-index: 10000;
+	width: 800px;
+	top: 20%;
+	left: 50%;
+	margin-left: -420px;
+}
+
+.wz-notification {
+	background: #000;
+	background: rgba(0,0,0,.9);
+	z-index: 10000;
+	color: #FFF;
+	padding: 20px;
+	text-align: center;
+	display: none;
+	width: 800px;
+	font-size: 16px;
+	margin: 10px 0;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.wz-notification span {
+	display: block;
+}
+
+#noscript-warning {
+	background: #900;
+	background: rgba(153,0,0,.9);
+	display: block;
+	width: 800px;
+	height: 24px;
+	top: 50%;
+	left: 50%;
+	margin: -34px 0 0 -420px;
+	font-size: 20px;
+	cursor: default;
+	z-index: 10000;
+	position: fixed;
+}
+
+#wz-errors {
+	background: #900;
+	background: rgba(153,0,0,.9);
+}
+
+#wz-warnings {
+	background: #FAE589;
+	background: rgba(250,229,137,.9);
+	color: #000;
+}
+
+#wz-messages {
+	background: #B1EBA7;
+	background: rgba(177,235,167,.9);
+	color: #000;
+}
+
+/* wError
+===============================================*/
+.wError {
+	background: #C00;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	color: #FFF;
+	font-size: 11px;
+	padding: 4px 1.3em;
+	position: absolute;
+	z-index: 1;
+	/*width: 150px;*/
+	display: none;
+	cursor: pointer;
+	color: #FFF;
+}
+.popup-form .wError, #account-form .wError, #servers-form .wError {
+	top: 11px;
+	right: -6px;
+}
+
+/* jQuery Templates
+===============================================*/
+.jquery-tmpl {
+	display: none;
+}

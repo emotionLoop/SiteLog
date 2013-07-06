@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<component>
+	<id>servers-and-services</id>
+	<class>ServersAndServices</class>
+	<name>Servers And Services</name>
+	<namep>Servers And Services</namep>
+	<triggers>servers-and-services</triggers>
+</component>

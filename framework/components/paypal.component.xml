@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<component>
+	<id>paypal</id>
+	<class>PayPal</class>
+	<name>PayPal</name>
+	<namep>PayPal</namep>
+	<triggers>paypal</triggers>
+</component>

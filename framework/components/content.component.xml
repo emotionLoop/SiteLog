@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<component>
+	<id>content</id>
+	<table>tbl_contents</table>
+	<class>Content</class>
+	<name>Content</name>
+	<namep>Contents</namep>
+	<triggers>*</triggers>
+</component>

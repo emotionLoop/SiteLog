@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<component>
+	<id>account</id>
+	<table>wz_users</table>
+	<class>Account</class>
+	<name>Account</name>
+	<namep>Accounts</namep>
+	<triggers>account</triggers>
+</component>

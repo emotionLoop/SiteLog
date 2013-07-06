@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<component>
+	<id>public</id>
+	<table>tbl_user_servers</table>
+	<class>PublicDashboard</class>
+	<name>Public</name>
+	<namep>Public</namep>
+	<triggers>public</triggers>
+</component>

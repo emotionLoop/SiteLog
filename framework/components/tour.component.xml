@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<component>
+	<id>tour</id>
+	<class>Tour</class>
+	<name>Tour</name>
+	<triggers>tour</triggers>
+</component>

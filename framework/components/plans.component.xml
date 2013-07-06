@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<component>
+	<id>plans</id>
+	<table>tbl_plans</table>
+	<class>Plans</class>
+	<name>Plans</name>
+	<namep>Plans</namep>
+	<triggers>plans-and-pricing</triggers>
+</component>

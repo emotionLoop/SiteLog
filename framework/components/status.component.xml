@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<component>
+	<id>status</id>
+	<table>tbl_user_services</table>
+	<class>Status</class>
+	<name>Status</name>
+	<namep>Status</namep>
+	<triggers>status</triggers>
+</component>

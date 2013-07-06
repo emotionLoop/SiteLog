@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<component>
+	<id>blog</id>
+	<class>Blog</class>
+	<name>Blog</name>
+	<table>tbl_blog</table>
+	<triggers>blog</triggers>
+</component>
